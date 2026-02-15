@@ -7,7 +7,7 @@ This project includes **animation, score system, speed increase, restart feature
 
 ## 🎮 Game Preview
 
-![Snake Game Screenshot](sandbox:/mnt/data/a821eaa7-3b26-4cf0-8af2-0a95d397ab3b.png)
+![Snake Game Screenshot](Screenshot%202026-02-15%20170545.png)
 
 ---
 
@@ -34,13 +34,13 @@ This project includes **animation, score system, speed increase, restart feature
 
 ## ▶️ How to Run the Game
 
-### 1️⃣ Compile
+### Compile
 
 ```bash
 javac ProSnakeGame.java
 ```
 
-### 2️⃣ Run
+### Run
 
 ```bash
 java ProSnakeGame
@@ -65,17 +65,9 @@ java ProSnakeGame
 ```
 ProSnakeGame.java
 README.md
+Screenshot 2026-02-15 170545.png
+LICENSE
 ```
-
----
-
-## 🚀 Future Improvements
-
-* 🔊 Sound effects (eat & game over)
-* 🏆 High score saving system
-* ⏸️ Pause / Resume feature
-* 🎨 Custom snake textures & themes
-* 📱 Android touch version
 
 ---
 
