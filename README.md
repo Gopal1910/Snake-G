@@ -74,7 +74,7 @@ LICENSE
 ## 👨‍💻 Author
 
 **Gopal**
-Java & Game Development Enthusiast 🚀
+Java Enthusiast 🚀
 
 ---
 
